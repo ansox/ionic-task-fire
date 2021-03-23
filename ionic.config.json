@@ -1,0 +1,7 @@
+{
+  "name": "IonicTasksFire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
